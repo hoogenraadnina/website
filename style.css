@@ -11,7 +11,7 @@ body {
   font-family: Apple Chancery, cursive;
 }
 
-footer{
+footer {
   background: rgb(63, 97, 251);
   background: radial-gradient(circle, rgba(63, 97, 251, 0.5004595588235294) 0%, rgba(199, 241, 250, 0.7497592787114846) 100%);
 }
@@ -26,11 +26,14 @@ main img {
   border-radius: 30px;
 }
 
+p{
+  line-height: 1.8em;
+}
 
 /*navbar en header*/
 
 a {
-  color:#2b3990;
+  color: plum;
 }
 
 a img{
@@ -57,7 +60,7 @@ header img {  /*logo instellingen*/
   text-align: center;
 }
 
-nav img {
+nav img { /*navbar instellingen*/
   height: 7vh;
   width: 18vw;
   margin-top: 5vh;
@@ -73,10 +76,7 @@ nav img {
   gap: 100px;
 }
 
-
-
 /*index*/
-
 
 .store {
   height: 50vh;
@@ -85,12 +85,7 @@ nav img {
   margin: auto;
 }
 
-
-
-
 /*inspiratie*/
-
-
 
 .model {
   height: 50vh;
@@ -99,7 +94,6 @@ nav img {
   display:block; 
   margin: auto;
 }
-
 
 /*duurzaamheid*/
 
@@ -125,8 +119,6 @@ nav img {
   
 }
 
-
-
 /*contact*/
 
 .achtergrond {
@@ -142,7 +134,6 @@ nav img {
   gap: 10px;
 
 }
-
 
 .logo {
   height: 15vh;
