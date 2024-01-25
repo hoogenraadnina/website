@@ -6,6 +6,8 @@
   box-sizing: border-box;
 }
 
+/*main body en footer*/
+
 body {
   background-color: #C7F1FA;
   font-family: Apple Chancery, cursive;
@@ -52,7 +54,7 @@ header {
   height: 20vh;
   display: flex; 
   flex-direction: row; 
-  gap: 70.5px;
+  gap: 70px;
   background: rgb(63, 97, 251);
   background: radial-gradient(circle, rgba(63, 97, 251, 0.5004595588235294) 0%, rgba(199, 241, 250, 0.7497592787114846) 100%);
 }
@@ -74,7 +76,6 @@ nav img { /*navbar instellingen*/
   height: 8vh;
   margin-top: 5vh;
 }
-
 
 .ul {
   display: flex;
