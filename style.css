@@ -26,7 +26,7 @@ main img {
   border-radius: 30px;
 }
 
-p{
+p {
   line-height: 1.8em;
 }
 
@@ -42,6 +42,10 @@ a img{
 
 .bloem {
   height: 10vh;
+  width: 17vw;
+  display:  block; 
+  margin: auto;
+  
 }
 
 header {
@@ -70,6 +74,7 @@ nav img { /*navbar instellingen*/
   height: 8vh;
   margin-top: 5vh;
 }
+
 
 .ul {
   display: flex;
