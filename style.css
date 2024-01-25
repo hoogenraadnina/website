@@ -38,35 +38,37 @@ a {
   color: plum;
 }
 
-a img{
+a img {
   border-radius: 0px;
 }
 
 .bloem {
   height: 10vh;
   width: 17vw;
-  display:  block; 
+  display: block;
   margin: auto;
-  
+
 }
 
 header {
   height: 20vh;
-  display: flex; 
-  flex-direction: row; 
+  display: flex;
+  flex-direction: row;
   gap: 70px;
   background: rgb(63, 97, 251);
   background: radial-gradient(circle, rgba(63, 97, 251, 0.5004595588235294) 0%, rgba(199, 241, 250, 0.7497592787114846) 100%);
 }
 
 
-header img {  /*logo instellingen*/
+header img {
+  /*logo instellingen*/
   height: 14vh;
   margin-top: 2.5vh;
   text-align: center;
 }
 
-nav img { /*navbar instellingen*/
+nav img {
+  /*navbar instellingen*/
   height: 7vh;
   width: 18vw;
   margin-top: 5vh;
@@ -87,7 +89,7 @@ nav img { /*navbar instellingen*/
 .store {
   height: 50vh;
   width: 50vw;
-  display:  block; 
+  display: block;
   margin: auto;
 }
 
@@ -97,20 +99,20 @@ nav img { /*navbar instellingen*/
   height: 50vh;
   display: flex;
   flex-direction: column;
-  display:block; 
+  display: block;
   margin: auto;
 }
 
 /*duurzaamheid*/
 
-.plant{
+.plant {
   height: 30vh;
   width: 20vh;
   float: right;
 
 }
 
-.earth{
+.earth {
   height: 20vh;
   width: 20vh;
 }
@@ -120,9 +122,9 @@ nav img { /*navbar instellingen*/
 .map {
   height: 60vh;
   width: 55vw;
-  display:block; 
+  display: block;
   margin: auto;
-  
+
 }
 
 /*contact*/
@@ -130,7 +132,7 @@ nav img { /*navbar instellingen*/
 .achtergrond {
   background-image: url("img/foto1.jpg");
   background-size: 100%;
-    
+
 }
 
 .contact {
@@ -144,4 +146,3 @@ nav img { /*navbar instellingen*/
 .logo {
   height: 15vh;
 }
-
